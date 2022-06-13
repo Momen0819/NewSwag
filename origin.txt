@@ -1,0 +1,236 @@
+Uri: http://sama-water.com/
+File Name: D:\Private\new\sama-water.com\index.htm
+Content Type: text/html
+
+Uri: http://sama-water.com/web_site/css/bootstrap.min.css
+File Name: D:\Private\new\sama-water.com\web_site\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://sama-water.com/web_site/css/bootstrap-rtl.css
+File Name: D:\Private\new\sama-water.com\web_site\css\bootstrap-rtl.css
+Content Type: text/css
+
+Uri: http://sama-water.com/web_site/css/style.css
+File Name: D:\Private\new\sama-water.com\web_site\css\style.css
+Content Type: text/css
+
+Uri: http://sama-water.com/web_site/css/settings.css
+File Name: D:\Private\new\sama-water.com\web_site\css\settings.css
+Content Type: text/css
+
+Uri: http://sama-water.com/web_site/css/font-awesome.min.css
+File Name: D:\Private\new\sama-water.com\web_site\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://sama-water.com/web_site/images/favicon.png
+File Name: D:\Private\new\sama-water.com\web_site\images\favicon.png
+Content Type: image/png
+
+Uri: http://sama-water.com/Website/sweetalert.css
+File Name: D:\Private\new\sama-water.com\Website\sweetalert.css
+Content Type: text/css
+
+Uri: http://sama-water.com/Website/css/intlTelInput.css
+File Name: D:\Private\new\sama-water.com\Website\css\intlTelInput.css
+Content Type: text/css
+
+Uri: http://sama-water.com/site/login
+File Name: D:\Private\new\sama-water.com\site\login.html
+Content Type: text/html
+
+Uri: http://sama-water.com/site/register
+File Name: D:\Private\new\sama-water.com\site\register.html
+Content Type: text/html
+
+Uri: http://sama-water.com/site
+File Name: D:\Private\new\sama-water.com\site.html
+Content Type: text/html
+
+Uri: http://sama-water.com/site/about
+File Name: D:\Private\new\sama-water.com\site\about.html
+Content Type: text/html
+
+Uri: http://sama-water.com/site/products
+File Name: D:\Private\new\sama-water.com\site\products.html
+Content Type: text/html
+
+Uri: http://sama-water.com/site/articles
+File Name: D:\Private\new\sama-water.com\site\articles.html
+Content Type: text/html
+
+Uri: http://sama-water.com/site/support
+File Name: D:\Private\new\sama-water.com\site\support.html
+Content Type: text/html
+
+Uri: http://sama-water.com/site/contact
+File Name: D:\Private\new\sama-water.com\site\contact.html
+Content Type: text/html
+
+Uri: http://sama-water.com/site/rules
+File Name: D:\Private\new\sama-water.com\site\rules.html
+Content Type: text/html
+
+Uri: http://sama-water.com/Website/sweetalert.min.js
+File Name: D:\Private\new\sama-water.com\Website\sweetalert.min.js
+Content Type: application/javascript
+
+Uri: http://sama-water.com/web_site/js/jquery.js
+File Name: D:\Private\new\sama-water.com\web_site\js\jquery.js
+Content Type: application/javascript
+
+Uri: http://sama-water.com/web_site/js/bootstrap.min.js
+File Name: D:\Private\new\sama-water.com\web_site\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://sama-water.com/web_site/js/wowslider.js
+File Name: D:\Private\new\sama-water.com\web_site\js\wowslider.js
+Content Type: application/javascript
+
+Uri: http://sama-water.com/web_site/js/jquery.nicescroll.min.js
+File Name: D:\Private\new\sama-water.com\web_site\js\jquery.nicescroll.min.js
+Content Type: application/javascript
+
+Uri: http://sama-water.com/web_site/js/slick.min.js
+File Name: D:\Private\new\sama-water.com\web_site\js\slick.min.js
+Content Type: application/javascript
+
+Uri: http://sama-water.com/Website/js/intlTelInput.js
+File Name: D:\Private\new\sama-water.com\Website\js\intlTelInput.js
+Content Type: application/javascript
+
+Uri: http://sama-water.com/web_site/images/logo.png
+File Name: D:\Private\new\sama-water.com\web_site\images\logo.png
+Content Type: image/png
+
+Uri: http://www.sama-water.com/public/uploads/1534153801.jpg
+File Name: D:\Private\new\sama-water.com\public\uploads\1534153801.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sama-water.com/public/uploads/1534154070.jpg
+File Name: D:\Private\new\sama-water.com\public\uploads\1534154070.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sama-water.com/public/uploads/1534154106.jpg
+File Name: D:\Private\new\sama-water.com\public\uploads\1534154106.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sama-water.com/public/uploads/1534154125.jpg
+File Name: D:\Private\new\sama-water.com\public\uploads\1534154125.jpg
+Content Type: image/jpeg
+
+Uri: http://sama-water.com/public/uploads/1520359468.jpg
+File Name: D:\Private\new\sama-water.com\public\uploads\1520359468.jpg
+Content Type: image/jpeg
+
+Uri: http://sama-water.com/public/uploads/1520359657.jpg
+File Name: D:\Private\new\sama-water.com\public\uploads\1520359657.jpg
+Content Type: image/jpeg
+
+Uri: http://sama-water.com/public/uploads/1520359687.jpg
+File Name: D:\Private\new\sama-water.com\public\uploads\1520359687.jpg
+Content Type: image/jpeg
+
+Uri: http://sama-water.com/public/uploads/1520359723.jpg
+File Name: D:\Private\new\sama-water.com\public\uploads\1520359723.jpg
+Content Type: image/jpeg
+
+Uri: http://sama-water.com/web_site/js/jquery.viewbox.min.js
+File Name: D:\Private\new\sama-water.com\web_site\js\jquery.viewbox.min.js
+Content Type: application/javascript
+
+Uri: http://sama-water.com/web_site/js/script.js
+File Name: D:\Private\new\sama-water.com\web_site\js\script.js
+Content Type: application/javascript
+
+Uri: http://sama-water.com/web_site/fonts/JF-Flat-regular.eot
+File Name: D:\Private\new\sama-water.com\web_site\fonts\JF-Flat-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sama-water.com/web_site/fonts/JF-Flat-regular.eot?
+File Name: D:\Private\new\sama-water.com\web_site\fonts\JF-Flat-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sama-water.com/web_site/fonts/JF-Flat-regular.woff
+File Name: D:\Private\new\sama-water.com\web_site\fonts\JF-Flat-regular.woff
+Content Type: font/woff
+
+Uri: http://sama-water.com/web_site/fonts/JF-Flat-regular.ttf
+File Name: D:\Private\new\sama-water.com\web_site\fonts\JF-Flat-regular.ttf
+Content Type: font/ttf
+
+Uri: http://sama-water.com/web_site/fonts/JF-Flat-regular.svg
+File Name: D:\Private\new\sama-water.com\web_site\fonts\JF-Flat-regular.svg
+Content Type: image/svg+xml
+
+Uri: http://sama-water.com/web_site/images/minhead.png
+File Name: D:\Private\new\sama-water.com\web_site\images\minhead.png
+Content Type: image/png
+
+Uri: http://sama-water.com/web_site/images/title.png
+File Name: D:\Private\new\sama-water.com\web_site\images\title.png
+Content Type: image/png
+
+Uri: http://sama-water.com/web_site/images/footer.jpg
+File Name: D:\Private\new\sama-water.com\web_site\images\footer.jpg
+Content Type: image/jpeg
+
+Uri: http://sama-water.com/web_site/images/slides/img1.jpg
+File Name: D:\Private\new\sama-water.com\web_site\images\slides\img1.jpg
+Content Type: image/jpeg
+
+Uri: http://sama-water.com/web_site/fonts/faisal-free.eot
+File Name: D:\Private\new\sama-water.com\web_site\fonts\faisal-free.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sama-water.com/web_site/fonts/faisal-free.eot?
+File Name: D:\Private\new\sama-water.com\web_site\fonts\faisal-free-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sama-water.com/web_site/images/slides/ws_bullets.png
+File Name: D:\Private\new\sama-water.com\web_site\images\slides\ws_bullets.png
+Content Type: image/png
+
+Uri: http://sama-water.com/web_site/images/slides/ws_bulletsho.png
+File Name: D:\Private\new\sama-water.com\web_site\images\slides\ws_bulletsho.png
+Content Type: image/png
+
+Uri: http://sama-water.com/web_site/images/slides/arrow.png
+File Name: D:\Private\new\sama-water.com\web_site\images\slides\arrow.png
+Content Type: image/png
+
+Uri: http://sama-water.com/web_site/images/slides/arrowhove.png
+File Name: D:\Private\new\sama-water.com\web_site\images\slides\arrowhove.png
+Content Type: image/png
+
+Uri: http://sama-water.com/web_site/fonts/fontawesome-webfont.eot?v=4.6.3
+File Name: D:\Private\new\sama-water.com\web_site\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sama-water.com/web_site/fonts/fontawesome-webfont.eot?
+File Name: D:\Private\new\sama-water.com\web_site\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sama-water.com/web_site/fonts/fontawesome-webfont.woff2?v=4.6.3
+File Name: D:\Private\new\sama-water.com\web_site\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: http://sama-water.com/web_site/fonts/fontawesome-webfont.woff?v=4.6.3
+File Name: D:\Private\new\sama-water.com\web_site\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: http://sama-water.com/web_site/fonts/fontawesome-webfont.ttf?v=4.6.3
+File Name: D:\Private\new\sama-water.com\web_site\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: http://sama-water.com/web_site/fonts/fontawesome-webfont.svg?v=4.6.3
+File Name: D:\Private\new\sama-water.com\web_site\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://sama-water.com/Website/images/flags.png
+File Name: D:\Private\new\sama-water.com\Website\images\flags.png
+Content Type: image/png
+
+Uri: http://sama-water.com/site/forget
+File Name: D:\Private\new\sama-water.com\site\forget.html
+Content Type: text/html
+
